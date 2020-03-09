@@ -2,7 +2,7 @@ module.exports = {
   host: 'localhost',
   port: 8000,
   dest: './docs',
-  base: '/docs/',
+  base: '/site/',
   head: [
     ['script', { src: 'https://tajs.qq.com/stats?sId=66403914', charset: 'UTF-8' }]
   ],
