@@ -8,7 +8,6 @@ module.exports = {
   ],
   title: 'Ocean Sailing Studio',
   description: 'We produce remarkable software.',
-  footer: 'Copyright © 2019-2020 Ocean Sailing Studio',
   themeConfig: {
     search: false,
     // repo: 'purocean/blog',
