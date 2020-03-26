@@ -6,8 +6,8 @@ module.exports = {
   head: [
     ['script', { src: 'https://tajs.qq.com/stats?sId=66403914', charset: 'UTF-8' }]
   ],
-  title: '远洋航行工作室',
-  description: '欢迎来到远洋航行工作室',
+  title: 'Ocean Sailing Studio',
+  description: 'We produce remarkable software.',
   themeConfig: {
     search: false,
     // repo: 'purocean/blog',
