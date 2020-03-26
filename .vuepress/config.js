@@ -8,6 +8,7 @@ module.exports = {
   ],
   title: 'Ocean Sailing Studio',
   description: 'We produce remarkable software.',
+  footer: 'Copyright © 2019-2020 Ocean Sailing Studio',
   themeConfig: {
     search: false,
     // repo: 'purocean/blog',
@@ -18,7 +19,6 @@ module.exports = {
       // { text: '分类', link: '/category/' },
       // { text: '标签', link: '/tag/' },
     ],
-    footer: 'Copyright © 2019-2020 Ocean Sailing Studio'
   },
   markdown: {
     lineNumbers: true
