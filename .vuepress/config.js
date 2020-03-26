@@ -18,6 +18,7 @@ module.exports = {
       // { text: '分类', link: '/category/' },
       // { text: '标签', link: '/tag/' },
     ],
+    footer: 'Copyright © 2019-2020 Ocean Sailing Studio'
   },
   markdown: {
     lineNumbers: true
