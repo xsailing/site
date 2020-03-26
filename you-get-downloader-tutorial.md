@@ -15,6 +15,598 @@
 
 You may encounter network problems. Check your proxy config and try again may help you.
 
+## Supported Sites
+<div>
+  <table>
+  <thead>
+  <tr>
+  <th align="center" style="text-align: center">Site</th>
+  <th align="left">URL</th>
+  <th align="center">Videos?</th>
+  <th align="center">Images?</th>
+  <th align="center">Audios?</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td align="center"><strong>YouTube</strong></td>
+  <td align="left"><span href="https://www.youtube.com/" rel="nofollow">https://www.youtube.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Twitter</strong></td>
+  <td align="left"><span href="https://twitter.com/" rel="nofollow">https://twitter.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">VK</td>
+  <td align="left"><span href="http://vk.com/" rel="nofollow">http://vk.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Vine</td>
+  <td align="left"><span href="https://vine.co/" rel="nofollow">https://vine.co/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Vimeo</td>
+  <td align="left"><span href="https://vimeo.com/" rel="nofollow">https://vimeo.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Vidto</td>
+  <td align="left"><span href="http://vidto.me/" rel="nofollow">http://vidto.me/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Videomega</td>
+  <td align="left"><span href="http://videomega.tv/" rel="nofollow">http://videomega.tv/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Veoh</td>
+  <td align="left"><span href="http://www.veoh.com/" rel="nofollow">http://www.veoh.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Tumblr</strong></td>
+  <td align="left"><span href="https://www.tumblr.com/" rel="nofollow">https://www.tumblr.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">TED</td>
+  <td align="left"><span href="http://www.ted.com/" rel="nofollow">http://www.ted.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">SoundCloud</td>
+  <td align="left"><span href="https://soundcloud.com/" rel="nofollow">https://soundcloud.com/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">SHOWROOM</td>
+  <td align="left"><span href="https://www.showroom-live.com/" rel="nofollow">https://www.showroom-live.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Pinterest</td>
+  <td align="left"><span href="https://www.pinterest.com/" rel="nofollow">https://www.pinterest.com/</span></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">MusicPlayOn</td>
+  <td align="left"><span href="http://en.musicplayon.com/" rel="nofollow">http://en.musicplayon.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">MTV81</td>
+  <td align="left"><span href="http://www.mtv81.com/" rel="nofollow">http://www.mtv81.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Mixcloud</td>
+  <td align="left"><span href="https://www.mixcloud.com/" rel="nofollow">https://www.mixcloud.com/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">Metacafe</td>
+  <td align="left"><span href="http://www.metacafe.com/" rel="nofollow">http://www.metacafe.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Magisto</td>
+  <td align="left"><span href="http://www.magisto.com/" rel="nofollow">http://www.magisto.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Khan Academy</td>
+  <td align="left"><span href="https://www.khanacademy.org/" rel="nofollow">https://www.khanacademy.org/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Internet Archive</td>
+  <td align="left"><span href="https://archive.org/" rel="nofollow">https://archive.org/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Instagram</strong></td>
+  <td align="left"><span href="https://instagram.com/" rel="nofollow">https://instagram.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">InfoQ</td>
+  <td align="left"><span href="http://www.infoq.com/presentations/" rel="nofollow">http://www.infoq.com/presentations/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Imgur</td>
+  <td align="left"><span href="http://imgur.com/" rel="nofollow">http://imgur.com/</span></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Heavy Music Archive</td>
+  <td align="left"><span href="http://www.heavy-music.ru/" rel="nofollow">http://www.heavy-music.ru/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Google+</strong></td>
+  <td align="left"><span href="https://plus.google.com/" rel="nofollow">https://plus.google.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Freesound</td>
+  <td align="left"><span href="http://www.freesound.org/" rel="nofollow">http://www.freesound.org/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">Flickr</td>
+  <td align="left"><span href="https://www.flickr.com/" rel="nofollow">https://www.flickr.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">FC2 Video</td>
+  <td align="left"><span href="http://video.fc2.com/" rel="nofollow">http://video.fc2.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Facebook</td>
+  <td align="left"><span href="https://www.facebook.com/" rel="nofollow">https://www.facebook.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">eHow</td>
+  <td align="left"><span href="http://www.ehow.com/" rel="nofollow">http://www.ehow.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Dailymotion</td>
+  <td align="left"><span href="http://www.dailymotion.com/" rel="nofollow">http://www.dailymotion.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Coub</td>
+  <td align="left"><span href="http://coub.com/" rel="nofollow">http://coub.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">CBS</td>
+  <td align="left"><span href="http://www.cbs.com/" rel="nofollow">http://www.cbs.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Bandcamp</td>
+  <td align="left"><span href="http://bandcamp.com/" rel="nofollow">http://bandcamp.com/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">AliveThai</td>
+  <td align="left"><span href="http://alive.in.th/" rel="nofollow">http://alive.in.th/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">interest.me</td>
+  <td align="left"><span href="http://ch.interest.me/tvn" rel="nofollow">http://ch.interest.me/tvn</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>755<br>ナナゴーゴー</strong></td>
+  <td align="left"><span href="http://7gogo.jp/" rel="nofollow">http://7gogo.jp/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>niconico<br>ニコニコ動画</strong></td>
+  <td align="left"><span href="http://www.nicovideo.jp/" rel="nofollow">http://www.nicovideo.jp/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>163<br>网易视频<br>网易云音乐</strong></td>
+  <td align="left"><span href="http://v.163.com/" rel="nofollow">http://v.163.com/</span><br><span href="http://music.163.com/" rel="nofollow">http://music.163.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">56网</td>
+  <td align="left"><span href="http://www.56.com/" rel="nofollow">http://www.56.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>AcFun</strong></td>
+  <td align="left"><span href="http://www.acfun.cn/" rel="nofollow">http://www.acfun.cn/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Baidu<br>百度贴吧</strong></td>
+  <td align="left"><span href="http://tieba.baidu.com/" rel="nofollow">http://tieba.baidu.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">爆米花网</td>
+  <td align="left"><span href="http://www.baomihua.com/" rel="nofollow">http://www.baomihua.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>bilibili<br>哔哩哔哩</strong></td>
+  <td align="left"><span href="http://www.bilibili.com/" rel="nofollow">http://www.bilibili.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">豆瓣</td>
+  <td align="left"><span href="http://www.douban.com/" rel="nofollow">http://www.douban.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">斗鱼</td>
+  <td align="left"><span href="http://www.douyutv.com/" rel="nofollow">http://www.douyutv.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Panda<br>熊猫</td>
+  <td align="left"><span href="http://www.panda.tv/" rel="nofollow">http://www.panda.tv/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">凤凰视频</td>
+  <td align="left"><span href="http://v.ifeng.com/" rel="nofollow">http://v.ifeng.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">风行网</td>
+  <td align="left"><span href="http://www.fun.tv/" rel="nofollow">http://www.fun.tv/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">iQIYI<br>爱奇艺</td>
+  <td align="left"><span href="http://www.iqiyi.com/" rel="nofollow">http://www.iqiyi.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">激动网</td>
+  <td align="left"><span href="http://www.joy.cn/" rel="nofollow">http://www.joy.cn/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">酷6网</td>
+  <td align="left"><span href="http://www.ku6.com/" rel="nofollow">http://www.ku6.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">酷狗音乐</td>
+  <td align="left"><span href="http://www.kugou.com/" rel="nofollow">http://www.kugou.com/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">酷我音乐</td>
+  <td align="left"><span href="http://www.kuwo.cn/" rel="nofollow">http://www.kuwo.cn/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">乐视网</td>
+  <td align="left"><span href="http://www.le.com/" rel="nofollow">http://www.le.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">荔枝FM</td>
+  <td align="left"><span href="http://www.lizhi.fm/" rel="nofollow">http://www.lizhi.fm/</span></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">秒拍</td>
+  <td align="left"><span href="http://www.miaopai.com/" rel="nofollow">http://www.miaopai.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">MioMio弹幕网</td>
+  <td align="left"><span href="http://www.miomio.tv/" rel="nofollow">http://www.miomio.tv/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">痞客邦</td>
+  <td align="left"><span href="https://www.pixnet.net/" rel="nofollow">https://www.pixnet.net/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">PPTV聚力</td>
+  <td align="left"><span href="http://www.pptv.com/" rel="nofollow">http://www.pptv.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">齐鲁网</td>
+  <td align="left"><span href="http://v.iqilu.com/" rel="nofollow">http://v.iqilu.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">QQ<br>腾讯视频</td>
+  <td align="left"><span href="http://v.qq.com/" rel="nofollow">http://v.qq.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">企鹅直播</td>
+  <td align="left"><span href="http://live.qq.com/" rel="nofollow">http://live.qq.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Sina<br>新浪视频<br>微博秒拍视频</td>
+  <td align="left"><span href="http://video.sina.com.cn/" rel="nofollow">http://video.sina.com.cn/</span><br><span href="http://video.weibo.com/" rel="nofollow">http://video.weibo.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Sohu<br>搜狐视频</td>
+  <td align="left"><span href="http://tv.sohu.com/" rel="nofollow">http://tv.sohu.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Tudou<br>土豆</strong></td>
+  <td align="left"><span href="http://www.tudou.com/" rel="nofollow">http://www.tudou.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">虾米</td>
+  <td align="left"><span href="http://www.xiami.com/" rel="nofollow">http://www.xiami.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center">✓</td>
+  </tr>
+  <tr>
+  <td align="center">阳光卫视</td>
+  <td align="left"><span href="http://www.isuntv.com/" rel="nofollow">http://www.isuntv.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>音悦Tai</strong></td>
+  <td align="left"><span href="http://www.yinyuetai.com/" rel="nofollow">http://www.yinyuetai.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center"><strong>Youku<br>优酷</strong></td>
+  <td align="left"><span href="http://www.youku.com/" rel="nofollow">http://www.youku.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">战旗TV</td>
+  <td align="left"><span href="http://www.zhanqi.tv/lives" rel="nofollow">http://www.zhanqi.tv/lives</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">央视网</td>
+  <td align="left"><span href="http://www.cntv.cn/" rel="nofollow">http://www.cntv.cn/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">Naver<br>네이버</td>
+  <td align="left"><span href="http://tvcast.naver.com/" rel="nofollow">http://tvcast.naver.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">芒果TV</td>
+  <td align="left"><span href="http://www.mgtv.com/" rel="nofollow">http://www.mgtv.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">火猫TV</td>
+  <td align="left"><span href="http://www.huomao.com/" rel="nofollow">http://www.huomao.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">阳光宽频网</td>
+  <td align="left"><span href="http://www.365yg.com/" rel="nofollow">http://www.365yg.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">西瓜视频</td>
+  <td align="left"><span href="https://www.ixigua.com/" rel="nofollow">https://www.ixigua.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">快手</td>
+  <td align="left"><span href="https://www.kuaishou.com/" rel="nofollow">https://www.kuaishou.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">抖音</td>
+  <td align="left"><span href="https://www.douyin.com/" rel="nofollow">https://www.douyin.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">TikTok</td>
+  <td align="left"><span href="https://www.tiktok.com/" rel="nofollow">https://www.tiktok.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">中国体育(TV)</td>
+  <td align="left"><span href="http://v.zhibo.tv/" rel="nofollow">http://v.zhibo.tv/</span> <br><span href="http://video.zhibo.tv/" rel="nofollow">http://video.zhibo.tv/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  <tr>
+  <td align="center">知乎</td>
+  <td align="left"><span href="https://www.zhihu.com/" rel="nofollow">https://www.zhihu.com/</span></td>
+  <td align="center">✓</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  </tr>
+  </tbody>
+  </table>
+</div>
+
+
 ## Contact Us
 
 Please let us know if you need any additional assistance.
