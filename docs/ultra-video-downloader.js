@@ -1,5 +1,5 @@
 (async function () {
-  const onlineVersion = '1.3.2'
+  const onlineVersion = '1.3.6'
 
   compare = (a, b) => {
     if (a === b) {
@@ -48,7 +48,7 @@
       message: `当前有新版本，是否升级? \nNew version detected.`
     }).then(choice => {
       if (choice.response === 1) {
-        remote.shell.openExternal('ms-windows-store://pdp/?productid=9PD1FSMTL3Q3')
+        remote.shell.openExternal('ms-windows-store://pdp/?productid=9PD44Z13HZP4')
       }
     })
   }
