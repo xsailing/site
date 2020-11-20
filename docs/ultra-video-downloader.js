@@ -1,5 +1,5 @@
 (async function () {
-  const onlineVersion = '1.3.6'
+  const onlineVersion = '1.4.0'
 
   compare = (a, b) => {
     if (a === b) {
