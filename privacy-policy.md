@@ -37,10 +37,4 @@ We will notify you by email and/or noticeable notice of our application and will
 
 It is recommended that you review this Privacy Policy periodically to understand any changes. Changes to this Privacy Policy take effect when posted on this page.
 
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-+ By email: abcfoobar@outlook.com
-
 <iframe style="display: none" onload="document.getElementById('appname').innerText = decodeURIComponent(location.search.replace('?', ''))" />
