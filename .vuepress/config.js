@@ -4,7 +4,7 @@ module.exports = {
   dest: './docs',
   base: '/',
   head: [],
-  title: 'MS Lookup',
+  title: 'V',
   description: 'We produce remarkable software.',
   themeConfig: {
     search: false,
