@@ -2,7 +2,7 @@ module.exports = {
   host: 'localhost',
   port: 8000,
   dest: './docs',
-  base: '/site/',
+  base: '/',
   head: [],
   title: 'MS Lookup',
   description: 'We produce remarkable software.',
