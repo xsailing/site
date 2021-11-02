@@ -4,7 +4,7 @@ module.exports = {
   dest: './docs',
   base: '/',
   head: [],
-  title: 'V',
+  title: 'X',
   description: 'We produce remarkable software.',
   themeConfig: {
     search: false,
